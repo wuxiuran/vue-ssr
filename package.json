@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-concurrent": "^2.3.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-nodemon": "^0.4.2",
+    "vue": "^2.4.4",
+    "vue-server-renderer": "^2.4.4"
+  }
+}
